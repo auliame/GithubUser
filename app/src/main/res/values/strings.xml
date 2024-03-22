@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="username">Username</string>
+    <string name="image_user">image user</string>
+    <string name="name">Name</string>
+    <string name="_10_followers_8_following">10 Followers 8 Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite">favorite</string>
+    <string name="icon">icon</string>
+    <string name="title_favorite">Favorite</string>
+</resources>

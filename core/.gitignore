@@ -1,0 +1,12 @@
+/build
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+@@ -12,4 +11,3 @@
+/captures
+.externalNativeBuild
+.cxx
+local.properties
